@@ -65,10 +65,11 @@ Got message: Hello UDP! from ('127.0.0.1', 59316)
 ---
 ## Output:
 ### udp_server.py:
-![alt text](image.png)
+<img width="871" height="87" alt="image" src="https://github.com/user-attachments/assets/bfb23d61-888c-437a-93e3-36adc6356e99" />
 
 ### udp_client.py:
-![alt text](image-1.png)
+<img width="866" height="63" alt="image-1" src="https://github.com/user-attachments/assets/1a6d078c-2270-459c-9d83-1bd405c6c08a" />
+
 ---
 
 ## How it Works
